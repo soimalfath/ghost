@@ -1,0 +1,10 @@
+# File konfigurasi
+/config.json
+/content/settings.json
+
+# File data
+/content/db.sqlite3
+/content/uploads
+
+# File backup
+/versions
